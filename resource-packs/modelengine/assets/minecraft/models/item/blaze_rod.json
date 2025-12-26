@@ -4,10 +4,9 @@
         "layer0": "item/blaze_rod"
 	},
 	"overrides": [
-		
 		{"predicate": {"custom_model_data":85500}, "model": "item/nocsy/corgi/toy_bone"},
-		
-		{"predicate": {"custom_model_data":85501}, "model": "item/nocsy/corgi/nocsy_corgi_icon"}
-		
+		{"predicate": {"custom_model_data":85501}, "model": "item/nocsy/corgi/nocsy_corgi_icon"},
+		{"predicate": {"custom_model_data":75501}, "model": "item/nocsy/ninja_owl/toffynocsy_owl_lv1_icon"},
+		{"predicate": {"custom_model_data":75502}, "model": "item/nocsy/ninja_owl/toffynocsy_owl_lv2_icon"}
 	]
 }

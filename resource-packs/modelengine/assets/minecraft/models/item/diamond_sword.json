@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/diamond_sword"
+	},
+	"overrides": [
+		
+		{"predicate": {"custom_model_data":77600}, "model": "item/nocsy/werewolf/toffy_claws"}
+		
+	]
+}
