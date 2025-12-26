@@ -1,0 +1,13 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/magma_cream"
+	},
+	"overrides": [
+		
+		{"predicate": {"custom_model_data":85500}, "model": "item/nocsy/magic_cat/toffy_yarn"},
+		
+		{"predicate": {"custom_model_data":85501}, "model": "item/nocsy/magic_cat/nocsy_magic_cat_icon"}
+		
+	]
+}

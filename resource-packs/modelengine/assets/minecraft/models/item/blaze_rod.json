@@ -1,0 +1,13 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/blaze_rod"
+	},
+	"overrides": [
+		
+		{"predicate": {"custom_model_data":85500}, "model": "item/nocsy/corgi/toy_bone"},
+		
+		{"predicate": {"custom_model_data":85501}, "model": "item/nocsy/corgi/nocsy_corgi_icon"}
+		
+	]
+}
