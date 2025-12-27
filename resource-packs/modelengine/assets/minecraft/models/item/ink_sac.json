@@ -34,10 +34,11 @@
       { "predicate": {"custom_model_data": 77602}, "model": "item/nocsy/fox/nocsy_chibi_fox"},
       { "predicate": {"custom_model_data": 77603}, "model": "item/nocsy/death_spirit/nocsy_death_spirit_icon"},
       { "predicate": {"custom_model_data": 77604}, "model": "item/nocsy/tofnocsy_phoenix_baby_icon"},
-      { "predicate": {"custom_model_data": 77605}, "model": "item/nocsy/nocsy_chibi_dark_mage_icon"},
+      { "predicate": {"custom_model_data": 77605}, "model": "item/nocsy/nocsy_chibi_dark_mage_icon"},    
       { "predicate": {"custom_model_data": 77610}, "model": "item/nocsy/baby_walle_icon"},
       { "predicate": {"custom_model_data": 77611}, "model": "item/nocsy/utah_raptor_icon"},
       { "predicate": {"custom_model_data": 77612}, "model": "item/nocsy/fairy_seed_icon"},
+		  { "predicate": {"custom_model_data": 77613}, "model": "item/nocsy/icebear/nocsy_baby_icebear"},
       { "predicate": {"custom_model_data": 77615}, "model": "item/nocsy/nocsy_spooky_witch_icon"},
       { "predicate": {"custom_model_data": 77635}, "model": "item/nocsy/nocsy_fluffy_ram_icon"},
       { "predicate": {"custom_model_data": 77655}, "model": "item/nocsy/toffy_witch_icon"},
@@ -62,6 +63,10 @@
       { "predicate": {"custom_model_data": 77907}, "model": "item/nocsy/nocsy_icon_chibi_oven"},
       { "predicate": {"custom_model_data": 78605}, "model": "item/nocsy/nocsy_halloween_bat_icon"},
       { "predicate": {"custom_model_data": 79601}, "model": "item/nocsy/tofnocsy_chibi_blackbird_berserker"},
-      { "predicate": {"custom_model_data": 79602}, "model": "item/nocsy/tofnocsy_chibi_sparrow_berserker_icon"}
+      { "predicate": {"custom_model_data": 79602}, "model": "item/nocsy/tofnocsy_chibi_sparrow_berserker_icon"},
+      
+      { "predicate": {"custom_model_data": 87610}, "model": "item/nocsy/magic/toffy_glowy_wand"},
+      { "predicate": {"custom_model_data": 87611}, "model": "item/nocsy/magic/toffy_magic_potion"},
+      { "predicate": {"custom_model_data": 87612}, "model": "item/nocsy/magic/toffy_nature_wizard"}
     ]
 }

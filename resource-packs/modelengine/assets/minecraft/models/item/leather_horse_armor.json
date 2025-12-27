@@ -151,7 +151,17 @@
         {"predicate":{"custom_model_data":149},"model":"modelengine:volcano_lizard_ascendant/jaw"},
         {"predicate":{"custom_model_data":150},"model":"modelengine:volcano_lizard_ascendant/horn_left"},
         {"predicate":{"custom_model_data":151},"model":"modelengine:volcano_lizard_ascendant/horn_right"},
-        {"predicate":{"custom_model_data":152},"model":"modelengine:volcano_lizard_ascendant/horn_middle"}
+        {"predicate":{"custom_model_data":152},"model":"modelengine:volcano_lizard_ascendant/horn_middle"},
+        {"predicate":{"custom_model_data":153},"model":"modelengine:baby_walle/body"},
+        {"predicate":{"custom_model_data":154},"model":"modelengine:baby_walle/wheel_right"},
+        {"predicate":{"custom_model_data":155},"model":"modelengine:baby_walle/wheel_left"},
+        {"predicate":{"custom_model_data":156},"model":"modelengine:baby_walle/arm_right"},
+        {"predicate":{"custom_model_data":157},"model":"modelengine:baby_walle/grabby_right"},
+        {"predicate":{"custom_model_data":158},"model":"modelengine:baby_walle/arm_left"},
+        {"predicate":{"custom_model_data":159},"model":"modelengine:baby_walle/grabby_left"},
+        {"predicate":{"custom_model_data":160},"model":"modelengine:baby_walle/hinge"},
+        {"predicate":{"custom_model_data":161},"model":"modelengine:baby_walle/eye_right"},
+        {"predicate":{"custom_model_data":162},"model":"modelengine:baby_walle/eye_left"}
     ],
     "parent":"minecraft:item/generated",
     "textures":{"layer0":"minecraft:item/leather_horse_armor"}
