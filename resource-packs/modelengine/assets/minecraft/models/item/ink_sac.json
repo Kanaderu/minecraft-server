@@ -47,6 +47,8 @@
       { "predicate": {"custom_model_data": 77894}, "model": "item/nocsy/nocsy_chibi_dark_water_mage_icon"},
       { "predicate": {"custom_model_data": 77895}, "model": "item/nocsy/nocsy_chibi_onii_icon"},
       { "predicate": {"custom_model_data": 77896}, "model": "item/nocsy/nocsy_chibi_jackoassassin_icon"},
+		  { "predicate": {"custom_model_data": 77903}, "model": "item/nocsy/nocsy_icon_chibi_amanta"},
+		  { "predicate": {"custom_model_data": 77906}, "model": "item/nocsy/nocsy_icon_chibi_amadillo"},
       { "predicate": {"custom_model_data": 78605}, "model": "item/nocsy/nocsy_halloween_bat_icon"},
       { "predicate": {"custom_model_data": 79601}, "model": "item/nocsy/tofnocsy_chibi_blackbird_berserker"},
       { "predicate": {"custom_model_data": 79602}, "model": "item/nocsy/tofnocsy_chibi_sparrow_berserker_icon"}
