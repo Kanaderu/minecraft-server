@@ -16,6 +16,7 @@
       { "predicate": {"custom_model_data": 20350}, "model": "item/toffy/dark_water_djinn_ascendant/dark_water_djinn_ascendant_icon"},
       { "predicate": {"custom_model_data": 20450}, "model": "item/toffy/oni_fire_ascendant/oni_fire_ascendant_icon"},
       { "predicate": {"custom_model_data": 23150}, "model": "item/toffy/volcano_lizard_ascendant/volcano_lizard_ascendant_icon"},
+      { "predicate": {"custom_model_data": 23151}, "model": "item/toffy/volcano_lizard_chibi/volcano_lizard_chibi_icon"}
       { "predicate": {"custom_model_data": 23250}, "model": "item/toffy/dandelion_chibi/dandelion_chibi_icon"},
       { "predicate": {"custom_model_data": 23251}, "model": "item/toffy/dandelion_ascendant/dandelion_ascendant_icon"},
       { "predicate": {"custom_model_data": 24250}, "model": "item/toffy/hoppy_chibi/hoppy_chibi_icon"},
