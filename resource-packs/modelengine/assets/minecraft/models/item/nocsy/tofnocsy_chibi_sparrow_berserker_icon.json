@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "nocsy/nocsy_chibi_sparrow_berserker_icon"
+		"1": "modelengine:entity/nocsy/nocsy_chibi_sparrow_berserker_icon"
 	},
 	"elements": [
 		{
