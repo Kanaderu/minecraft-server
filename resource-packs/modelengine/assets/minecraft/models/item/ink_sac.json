@@ -19,6 +19,7 @@
       { "predicate": {"custom_model_data": 23250}, "model": "item/toffy/dandelion_chibi/dandelion_chibi_icon"},
       { "predicate": {"custom_model_data": 23251}, "model": "item/toffy/dandelion_ascendant/dandelion_ascendant_icon"},
       { "predicate": {"custom_model_data": 24250}, "model": "item/toffy/hoppy_chibi/hoppy_chibi_icon"},
+      { "predicate": {"custom_model_data": 24251}, "model": "item/toffy/hoppy_ascendant/hoppy_ascendant_icon"},
       { "predicate": {"custom_model_data": 24350}, "model": "item/toffy/mushroom_chibi/mushroom_chibi_icon"},
       { "predicate": {"custom_model_data": 24351}, "model": "item/toffy/mushroom_ascendant/mushroom_ascendant_icon"},
       { "predicate": {"custom_model_data": 73609}, "model": "item/nocsy/fall_dragon_icon"},
