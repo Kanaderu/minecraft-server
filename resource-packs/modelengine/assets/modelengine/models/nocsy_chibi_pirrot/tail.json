@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/nocsy_chibi_pirrot","particle":"#0"},"elements":[{"from":[5.0,0.19878101,8.341421],"to":[11.0,8.198781,8.341421],"faces":{"south":{"uv":[4.0,2.25,5.5,4.25],"tintindex":0,"rotation":0,"texture":"#0"},"north":{"uv":[5.5,2.25,4.0,4.25],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[-150.0,-45.0,180.0]}}}
