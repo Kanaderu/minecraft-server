@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/fairy_seed","particle":"#0"},"elements":[{"from":[6.5,-1.0,8.0],"to":[9.5,8.0,8.0],"faces":{"south":{"uv":[11.0,2.0,11.75,4.25],"tintindex":0,"rotation":0,"texture":"#0"},"north":{"uv":[10.0,2.0,10.75,4.25],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[-150.0,-45.0,180.0]}}}
